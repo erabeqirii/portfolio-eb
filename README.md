@@ -1,6 +1,6 @@
 ## Live Application URL
 
-### [https://aditya-sridhar.github.io/simple-reactjs-app](https://erabeqirii.github.io/portfolio/)
+### (https://erabeqirii.github.io/portfolio/)
 This URL has the application deployed in
 
 ## Prerequisites
